@@ -130,7 +130,6 @@ InscribeAI is an AI-powered intelligent blogging application designed to simplif
 <img width="1920" height="1080" alt="Screenshot 2025-12-24 204020 (1)" src="https://github.com/user-attachments/assets/eccaf0a9-9cf7-481f-a7bd-f19bc2c6f5a0" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-24 204040 (1)" src="https://github.com/user-attachments/assets/0626ed4f-5107-49e8-8e8f-af956936ebdb" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-24 204127 (1)" src="https://github.com/user-attachments/assets/370c0288-8c3e-4bff-b6c3-38a76bf9df75" />
-<img width="1920" height="1080" alt="Screenshot 2025-12-24 204127 (1)" src="https://github.com/user-attachments/assets/75776959-ecef-4c40-a9f0-cb072919719e" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-24 204056 (1)" src="https://github.com/user-attachments/assets/ef9f7ff9-f3fd-4808-b864-b63bdef1938d" />
 
 
