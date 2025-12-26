@@ -1,4 +1,4 @@
-# InscribeAI-Intelligent-Blogging-Application
+
 # 🧠 INSCRIBEAI – Intelligent Blogging Application
 
 ## 📌 Project Overview
@@ -141,48 +141,3 @@ npm start
 
 # Start frontend
 npm run dev
-🔗 Project Links
-
-🌐 Live Website: https://quickblog-gs.vercel.app/
-
-🎥 Demo Video: https://youtu.be/yl9pwazDHUw
-
-👩‍💻 Developer Details
-
-Name: Soundarya J
-
-Degree: B.Tech – Information Technology
-
-Institution: Saveetha Engineering College
-
-🙏 Acknowledgement
-
-This mini project was developed as part of academic coursework, inspired by modern AI-driven blogging platforms.
-Special thanks to open-source communities, Google Gemini API, ImageKit, and MERN stack technologies.
-
-⭐ Support
-
-If you find this project useful:
-
-Give it a ⭐ on GitHub
-
-Share it with others
-
-Contributions and suggestions are welcome
-
-❤️ THANK YOU
-
----
-
-If you want next:
-✅ **Badges (AI | MERN | Gemini | Vercel)**  
-✅ **Short README for college submission**  
-✅ **Professional project poster or PPT slides**  
-✅ **Presentation speech from this README**
-
-Just tell me 🔥
-
-Want to keep using GPT-5? Try Go for free
-You need GPT-5 to continue this chat because there's an attachment. Your limit resets tomorrow after 1:49 AM.
-New chat
-Try Go free
